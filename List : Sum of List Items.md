@@ -11,7 +11,7 @@ To write a Python program that calculates the **sum of all elements** in a list.
 2. Use Python’s built-in `sum()` function to calculate the total.
 3. Print the result.
 
-## 🧾 Progra
+## 🧾 Programe
 list=[1,2,-8]
 total=sum(list)
 print(total)
